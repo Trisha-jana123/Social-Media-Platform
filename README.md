@@ -33,6 +33,7 @@ git clone https://github.com/your-username/social-media-ui.git
 cd social-media-ui
 npm install
 npm run dev
+Now open http://localhost:5173/ in your browser to view the calculator.
 ```
 
 src/                
